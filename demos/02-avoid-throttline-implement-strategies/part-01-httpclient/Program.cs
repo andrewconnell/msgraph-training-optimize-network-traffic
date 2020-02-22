@@ -179,8 +179,6 @@ namespace graphconsoleapp
         messageDetail = GetMessageDetail(client, messageId);
       }
 
-      // add code here
-
       return messageDetail;
     }
   }
