@@ -178,6 +178,7 @@ namespace graphconsoleapp
         // call method again after waiting
         messageDetail = GetMessageDetail(client, messageId);
       }
+      // add code here
 
       return messageDetail;
     }
